@@ -1,0 +1,22 @@
+lset
+-1.1,-.1,1.1,2.1
+maskit-2-31.ps
+draw
+T11
+(0.009601746519217d0,1.960821589131630d0)
+a
+b
+%2/31(a,b)
+
+0.001
+100
+,
+ba
+Ba
+draw
+BA
+bA
+up
+quit
+0,1
+Limit in Maskit slice

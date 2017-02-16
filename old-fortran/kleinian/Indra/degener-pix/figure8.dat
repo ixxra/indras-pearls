@@ -1,0 +1,21 @@
+lset
+-1.5,-1.5,1.5,1.5
+figure8.ps
+fill
+4096,4096
+twogen
+(1.5d0,-0.86602540378443864676d0),(1.5d0,0.86602540378443864676d0),,
+b
+%55/89(a,b)
+%55/89(B,a)
+
+0.0005
+20.0
+,
+
+
+fillin
+up
+quit
+,,
+Cyclic cover of figure-8 knot complement (figure8.ps)

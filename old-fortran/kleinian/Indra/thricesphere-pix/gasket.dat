@@ -1,0 +1,25 @@
+lset
+-1.1,-1.1,1.1,1.1
+gasket.ps
+draw
+twogen
+(2,0),(2,0),,
+a
+a
+b
+
+.0002
+400
+,
+
+
+up
+quit
+0,0
+Gasket of Apollonius
+
+
+
+
+
+

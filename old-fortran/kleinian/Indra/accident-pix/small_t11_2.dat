@@ -1,0 +1,21 @@
+lset
+-.25,0.7,.25,1.3
+small_t11_2.eps
+draw
+T11
+(0.05,1.8867)
+b
+a
+
+.0005
+200.0
+,
+aa
+aa
+draw
+AA
+AA
+up
+quit
+,,
+Limit Set in Maskit's T(1,1)

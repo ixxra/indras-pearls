@@ -1,0 +1,23 @@
+lset
+-.5,-.5,.5,.5
+comm2-kbmag.ps
+draw
+FSA
+twogen
+(2.1d0,0.0d0),(2.1d0,0.0d0),(0.0d0,0.0d0)
+y
+a
+Comm2.wa
+a
+b
+
+.001
+200
+,
+
+
+up
+quit
+,,
+Commutator order two
+

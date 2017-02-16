@@ -1,0 +1,27 @@
+lset
+-1.1,-1.1,1.1,1.1
+poincare-axe-draw.ps
+draw
+twogen
+(2.2d0,0.0d0),(2.2d0,0.0d0),,
+a
+
+0.005
+100.0
+,
+
+
+schottky
+parabolic
+abAB
+90
+BabA
+abAB
+90
+bABa
+
+
+up
+quit
+,,
+Poincare Series

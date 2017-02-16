@@ -1,0 +1,24 @@
+lset
+-1.1,-1.1,1.1,1.1
+gasketglow.ps
+disks
+twogen
+(2.0d0,0.0d0),(2.0d0,0.0d0),(-2.0d0,0.0d0)
+a
+a
+b
+
+0.001
+100
+,
+manual
+n
+(0.0d0,0.0d0),-3.14159265358979d0
+(1.0d0,-1.0d0),1.0d0
+
+
+up
+quit
+0,0
+A Lattice of Schottky Circles: gasketglow.dat
+

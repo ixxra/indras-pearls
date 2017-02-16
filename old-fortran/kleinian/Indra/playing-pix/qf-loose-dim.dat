@@ -1,0 +1,19 @@
+lset
+-1.5,-2.4,1.5,2.4
+qf-loose-dim.ps
+draw
+twogen
+(1.87d0,0.1d0),(1.87d0,-0.1d0),,
+a
+
+.1
+2.0
+,
+
+
+up
+quit
+,,
+Trace a = 1.87 + 0.1 i, Trace b = 1.87 - 0.1 i
+
+

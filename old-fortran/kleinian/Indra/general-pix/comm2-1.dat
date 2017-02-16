@@ -1,0 +1,23 @@
+lset
+-.8,-.8,.8,.8
+comm2-1.ps
+draw
+FSA
+twogen
+(2.1d0,0.0d0),(2.1d0,0.0d0),(0.0d0,0.0d0)
+y
+a
+comm2.fsa
+a
+b
+
+.001
+200
+,
+
+
+up
+quit
+,,
+Commutator order two
+

@@ -1,0 +1,27 @@
+bndy
+1
+0,1.5,2,2.5
+T11_KS_rays+horos-clr.ps
+choros
+0,1,1,1
+700
+n
+(0,0)
+(0.008,0)
+150
+
+n
+fill
+2048,2048
+piece
+0,1,1,1
+2000
+n
+
+color
+Black
+fillout
+up
+quit
+1,2
+Keen-Series Rays and Horocycles in Maskit's T_1,1

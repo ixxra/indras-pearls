@@ -1,0 +1,6 @@
+#!/bin/csh
+foreach i ( $* )
+set root = $i:r
+kleinian < $root.dat
+end
+exit

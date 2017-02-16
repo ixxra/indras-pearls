@@ -1,0 +1,11 @@
+# Commutator Order Three
+_RWS := rec(
+  isRWS := true,
+  ordering := "shortlex",
+  tidyint := 20,
+  generatorOrder := [a,b,A,B],
+  inverses := [A,B,a,b],
+  equations := [
+    [(a*b*A*B)^2,b*a*B*A]
+  ]
+);

@@ -1,0 +1,17 @@
+lset
+-1.2,-0.5,1.2,2.0
+slow.ps
+labels
+twogen
+(1.87d0,0.1d0),(1.87d0,-0.1d0),,
+a
+
+.4
+2.0
+,
+a
+a
+up
+quit
+0,0
+Trace a = 1.87 + 0.1 i, Trace b = 1.87 - 0.1 i

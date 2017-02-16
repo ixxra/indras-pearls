@@ -1,0 +1,23 @@
+lset
+-2.0,-2.0,2.0,2.0
+comm3-1.ps
+draw
+FSA
+twogen
+(2.1d0,0.0d0),(2.1d0,0.0d0),(-1.0d0,0.0d0)
+y
+a
+Comm3.wa
+a
+b
+
+.001
+200
+,
+
+
+up
+quit
+,,
+Commutator order three
+

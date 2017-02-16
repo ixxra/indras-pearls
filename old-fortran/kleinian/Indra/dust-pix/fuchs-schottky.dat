@@ -1,0 +1,26 @@
+lset
+-8,-6.0,8,6.0
+fuchs-schottky.ps
+maxlev
+5
+disks
+schottky
+abAB
+n
+(0.5d0,0.0d0),0.4d0,(-0.5d0,0.0d0),0.4d0
+(0.0d0,0.0d0)
+0.0d0
+(5.5555555555555d0,0.0d0),4.4444444444444d0,(-5.5555555555555d0,0.0d0),4.4444444444444d0
+(0.0d0,0.0d0)
+0.0d0
+
+.002
+200
+,
+standard
+
+
+up
+quit
+,,
+Fuchsian Schottky Disks

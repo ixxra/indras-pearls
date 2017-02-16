@@ -1,0 +1,21 @@
+lset
+-1.2,-0.1,1.2,2.1
+t11.ps
+draw
+T11
+(0.05,1.91)
+b
+a
+
+.003
+100.0
+,
+ba
+Ba
+draw
+BA
+bA
+up
+quit
+,,
+Limit Set in Maskit's T(1,1)

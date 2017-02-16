@@ -1,0 +1,25 @@
+bndy
+2
+(3.0d0,0.0d0),(-2.0d0,0.0d0)
+0.08,1.84,0.12,1.88
+trace3-bndy-3.ps
+piece
+1,9,1,6
+3000
+n
+1/7
+1,7,30
+2/15
+2,15,30
+
+n
+color
+Red
+rays
+1,9,1,6
+40
+n
+up
+quit
+0.1,1.86
+Trace 3 Boundary Zoom

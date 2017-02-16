@@ -1,0 +1,20 @@
+lset
+-1.1,-1.1,1.1,1.1
+two10.ps
+draw
+FSA
+curveoff
+twogen
+(1.90211303259032d0,0.0d0),(1.90211303259032d0,0.0d0),(-2,0)
+a
+two10.fsa
+
+.001
+500
+,
+
+
+up
+quit
+,,
+FSA limit set

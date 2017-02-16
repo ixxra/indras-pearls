@@ -1,0 +1,21 @@
+lset
+-1.1,-0.1,1.1,2.2
+t11_cusp.ps
+draw
+T11
+(0.0,2.1)
+b
+a
+
+.001
+100.0
+,
+ba
+Ba
+draw
+BA
+bA
+up
+quit
+,,
+Limit Set in Maskit's T(1,1)

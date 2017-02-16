@@ -1,0 +1,22 @@
+lset
+-1.1,-1.1,1.1,1.1
+one10-2.ps
+color
+Blue
+draw
+FSA
+twogen
+(1.90211303259032d0,0.0d0),(3.0d0,0.0d0),(-2,0)
+a
+one10.fsa
+b
+
+.001
+200
+,
+
+
+up
+quit
+,,
+FSA limit set

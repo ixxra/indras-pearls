@@ -1,0 +1,20 @@
+lset
+-1.8,-2.5,1.8,2.5
+double-cusp.ps
+draw
+twogen
+(1.6992847797382,1.0131442786483),(1.91,.05),,
+b
+a
+b
+aaabaabaabaabaabaabaabaabaabaabaabaabaabaabaabaabaabaabaabaab
+
+.001
+100.0
+0.0005
+
+
+up
+quit
+0,0
+20/41 cusp with t2 = 1.91+0.05 i (double-cusp.ps)

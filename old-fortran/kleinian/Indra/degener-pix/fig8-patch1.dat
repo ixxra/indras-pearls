@@ -1,0 +1,42 @@
+draw
+-1.5,-1.5,1.5,1.5
+fig8-patch1.ps
+pen
+10
+point
+fixpt
+twogen
+(1.5d0,-0.86602540378443864676d0),(1.5d0,0.86602540378443864676d0),,
+a
+
+abAB
+y
+chaincurve
+0.001
+100.0
+,
+317811,  514229
+A
+B
+
+A
+END
+color
+Red
+point
+fixpt
+BabA
+y
+chaincurve
+317811,  514229
+b
+A
+
+b
+END
+up
+quit
+,,
+Near the Figure-8 knot complement group
+
+

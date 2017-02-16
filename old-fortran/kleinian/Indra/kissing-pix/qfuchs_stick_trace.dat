@@ -1,0 +1,21 @@
+gpcalc
+schottky
+abAB
+y
+(0,1.2),1.05d0,(0,-1.2),1.05d0
+(0.0d0,0.0d0)
+0.0d0
+(1.6,0),0.95d0,(-1.6,0),0.95d0
+(0.0d0,0.0d0)
+0.0d0
+
+gens
+up
+quit
+,,
+Stickler Walk in Quasifuchsian Punctured-Torus Group (qfuchs_stick.ps)
+
+
+
+
+

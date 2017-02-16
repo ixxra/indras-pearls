@@ -1,0 +1,20 @@
+lset
+-1.1,-0.8,1.1,0.8
+trace3-tree.ps
+fill
+4096,4096
+twogen
+(1.7846479833722020,-0.7385206903748061),(3,0),,
+b
+%89/233(a,b)
+
+0.001
+200.0
+,
+
+
+fillin
+up
+quit
+,,
+Singly degenerate group representing a punctured torus (trace3-tree.ps)

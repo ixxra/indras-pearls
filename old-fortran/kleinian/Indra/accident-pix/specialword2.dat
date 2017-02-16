@@ -1,0 +1,19 @@
+lset
+0.1,-0.05,0.4,.25
+specialword2.ps
+labels
+twogen
+(1.7320508076d0,1.0d0),(2.0d0,0.0d0),,
+a
+b
+aab
+
+.1
+5.0
+0.0
+ababaBA
+ABA
+up
+quit
+,,
+Tracing the limit set step by step

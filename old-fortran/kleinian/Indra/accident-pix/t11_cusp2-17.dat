@@ -1,0 +1,22 @@
+lset
+-1.1,-0.1,1.1,2.2
+t11_cusp2-17.ps
+draw
+T11
+(0.054070333479394,1.8836604598354)
+b
+a
+aaaaaaaaaBaaaaaaaaB
+
+.005
+200.0
+,
+ba
+Ba
+draw
+BA
+bA
+up
+quit
+,,
+2/17 Cusp in Maskit's T(1,1)

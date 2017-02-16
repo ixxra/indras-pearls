@@ -1,0 +1,23 @@
+chain
+4181,10946
+n
+y
+-1.4,-0.2,1.4,1.8
+troels-chain.ps
+color
+Red
+chain
+color
+LightGray
+upper
+up
+draw
+color
+Black
+circle
+cenrad
+(0,0),-180
+up
+quit
+0,1
+Troels Group Chain

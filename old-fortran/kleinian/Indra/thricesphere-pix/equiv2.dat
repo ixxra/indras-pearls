@@ -1,0 +1,26 @@
+draw
+-0.5 , -1.6 ,  1.5 , 1.6
+equiv2.ps
+color
+Blue
+disk
+cenrad
+(0,0),-90
+disk
+cenrad
+(1,0),-90
+disk
+cenrad
+(0.5,0),0.5
+color
+Yellow
+disk
+cenrad
+(0.5,1),0.5
+disk
+cenrad
+(0.5,-1),0.5
+up
+quit
+0,0
+Circle chain

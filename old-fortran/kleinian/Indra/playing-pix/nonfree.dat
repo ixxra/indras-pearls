@@ -1,0 +1,22 @@
+lset
+-1.1,-1.1,1.1,1.1
+nonfree.ps
+maxlev
+100
+draw
+twogen
+(1.90211303259032d0,0.0d0),(1.90211303259032d0,0.0d0),(-2.00000000001d0,0.0d0)
+a
+abAB
+
+.01
+100.0
+,
+
+
+up
+quit
+,,
+Nonfree Limit Set: nonfree.ps
+
+

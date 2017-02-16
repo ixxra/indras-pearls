@@ -1,0 +1,19 @@
+draw
+-1.1,-1.1,1.1,1.1
+troels-curve.ps
+point
+fixpt
+twogen
+(1.6168866452675221d0,-0.7056734967959641d0),(2.0d0,0.0d0),,
+b
+
+ABab
+y
+chain
+317811,    832040
+a
+b
+up
+quit
+0,1
+Troels Group Curve

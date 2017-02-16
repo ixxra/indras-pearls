@@ -1,0 +1,21 @@
+
+bin:
+   kleinian:  complete compiled program on a Pentium-4. Chances are,
+       you'll need to recompile.
+   runklein: A script for running kleinian on a lot of script files.
+       Say
+           runklein *.dat
+
+Indra:
+   All the scripts used in the prpeartion of Indra's Pearls and more.
+   Say
+        kleinian < script.dat
+   to run a script.
+
+src:
+   Source code. Edit the Makefile, then say
+        make kleinian
+        make install
+   to install it.
+
+Good luck!

@@ -1,0 +1,24 @@
+lset
+-1.1,-1.1,1.1,1.1
+poincare.ps
+poincare
+psfile
+2
+twogen
+(3.0d0,0.0d0),(3.0d0,0.0d0),(-2.0d0,0.0d0)
+a
+a
+b
+
+0.001
+500.0
+,
+
+
+poincare-fuchs1-g2g3.pnc
+poincare-fuchs1-g2g3.aut
+up
+up
+quit
+,,
+Poincare Series

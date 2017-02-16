@@ -1,0 +1,26 @@
+lset
+-1.1,-1.1,1.1,1.1
+gasket.ps
+file
+gasket.pts
+twogen
+(2,0),(2,0),,
+a
+a
+b
+
+.01
+20
+,
+
+
+up
+quit
+0,0
+Gasket of Apollonius
+
+
+
+
+
+

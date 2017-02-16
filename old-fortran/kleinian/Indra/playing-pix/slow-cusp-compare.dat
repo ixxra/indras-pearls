@@ -1,0 +1,22 @@
+lset
+0.2,-0.05,0.5,.25
+slow-cusp-compare.ps
+draw
+twogen
+(2.0d0,-1.0d0),(3.0d0,0.0d0),(-2.0d0,0.0d0)
+b
+aaB
+
+.0002
+500.0
+,
+aaB
+bAA
+up
+quit
+,,
+Tracing the limit set step by step
+
+
+
+

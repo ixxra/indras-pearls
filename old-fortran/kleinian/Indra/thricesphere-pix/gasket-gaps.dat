@@ -1,0 +1,26 @@
+lset
+-1.1,-1.1,1.1,1.1
+gasket-gaps.ps
+color
+LightGray
+fill
+2048,2048
+twogen
+(2.0d0,0.0d0),(2.0d0,0.0d0),,
+a
+
+.005
+100
+,
+
+
+fillin
+color
+Black
+draw
+
+
+up
+quit
+,,
+Gaps in the basic algorithm (gasket-gaps)

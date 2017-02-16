@@ -1,0 +1,11 @@
+# Wedge group
+_RWS := rec(
+  isRWS := true,
+  ordering := "shortlex",
+  tidyint := 20,
+  generatorOrder := [a,b,B,A],
+  inverses := [A,B,b,a],
+  equations := [
+    [a*a,A*A]
+  ]
+);

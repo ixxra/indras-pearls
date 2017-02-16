@@ -1,0 +1,19 @@
+lset
+-1.1,-1.1,1.1,1.1
+twogen-off.ps
+schottky
+twogen
+(2.2d0,0.0d0),(2.2d0,0.0d0),(-2.5d0,0.0d0)
+a
+
+.005
+200
+,
+isometric
+
+
+up
+quit
+0,0
+A Chain of Schottky Circles with Bad Pairings (twogen-off.ps)
+

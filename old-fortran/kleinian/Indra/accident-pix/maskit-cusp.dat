@@ -1,0 +1,21 @@
+bndy
+1
+-.015,1.96,0.015,2.01
+maskit-cusp.ps
+piece
+-1,15,1,15
+3000
+n
+
+n
+piece
+-1,15,1,15
+3000
+n
+mu(0/1)=2i
+0,1,90.0
+
+up
+quit
+0.0,2.0
+Principal cusp 0/1
